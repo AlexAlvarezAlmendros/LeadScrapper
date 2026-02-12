@@ -137,3 +137,13 @@ dist
 # Vite logs files
 vite.config.js.timestamp-*
 vite.config.ts.timestamp-*
+.agents/skills/python-design-patterns/SKILL.md
+.agents/skills/python-error-handling/SKILL.md
+.agents/skills/python-performance-optimization/SKILL.md
+.agents/skills/web-scraping/SKILL.md
+output/agricultura_barcelona_20260212_110916.csv
+output/agricultura_barcelona_20260212_110916.json
+output/agricultura_igualada-barcelona_20260212_161237.csv
+output/agricultura_igualada-barcelona_20260212_161237.json
+output/barcelona_20260212_162610.json
+doc.md
